@@ -12,3 +12,7 @@ npm install
 ```
 npm run dev
 ```
+## technologies used
+-React
+-Node js
+-MongoDB

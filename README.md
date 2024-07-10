@@ -12,7 +12,15 @@ npm install
 ```
 npm run dev
 ```
-## technologies used
--React
--Node js
--MongoDB
+This section explains how to run the project. Similar to the Installation section, it uses a code block to highlight the command needed to start the project.
+
+### 6. Technologies Used
+```markdown
+## Technologies Used
+
+- React
+- Node.js
+- Express
+- Tailwind CSS
+- Other technologies...
+
